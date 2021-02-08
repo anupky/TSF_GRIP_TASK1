@@ -1,3 +1,6 @@
+## IOT and computer vision INTERNSHIP
+## By The Sparks Foundation.
+## TASK 1
 # Object Detection 
 
 We are using MobilNet-SSD
@@ -14,4 +17,4 @@ trained files are inside data folder.
 assets foder use to store test files/images
 
 
-## This is a task of Graduate Rotational Internship Program by The Sparks Foundation.
+
